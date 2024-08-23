@@ -20,11 +20,14 @@ Install additional libraries (pycocotools not currently being used but might be)
 
     mamba install -c conda-forge opencv matplotlib scikit-image pycocotools jupyterlab
 
-install torchinfo (gives summary of models -- not really essential but can be useful):
+Install torchinfo (gives summary of models -- not really essential but can be useful):
 
     pip install torchinfo
 
+For using local jupyter notebook server and ipykernel, install the above libraries as follows:
+
+    pip install -r requirements.txt 
+
 ## Run notebook
 All the important things should be in `volpy_training_initial.ipynb`, including which source materials it is adapted from, what needs to be improved, what might be improved, etc. 
-
 
