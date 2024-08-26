@@ -29,5 +29,4 @@ For using local jupyter notebook server and ipykernel, install the above librari
     pip install -r requirements.txt 
 
 ## Run notebook
-All the important things should be in `volpy_training_initial.ipynb`, including which source materials it is adapted from, what needs to be improved, what might be improved, etc. 
-
+`volpy_training_initial.ipynb` contains the source materials it is adapted from, what needs to be improved, what might be improved. 
