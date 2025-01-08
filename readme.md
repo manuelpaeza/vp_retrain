@@ -18,7 +18,7 @@ Test whether it sees your gpu, go into python and:
 
 Install additional libraries (pycocotools not currently being used but might be):
 
-    mamba install -c conda-forge opencv matplotlib scikit-image pycocotools jupyterlab
+    mamba install -c conda-forge opencv matplotlib scikit-image jupyterlab
 
 Install torchinfo (gives summary of models -- not really essential but can be useful):
 
