@@ -559,4 +559,3 @@ def thresholded_predictions(pred, threshold=0.7):
     boxes = pred['boxes'][:numels]
     
     return masks, boxes 
-

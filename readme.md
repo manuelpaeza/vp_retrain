@@ -1,5 +1,5 @@
 # retrain volpy maskrcnn in torch
-WIP.
+WIP
 
 ## Set up virtual env
 Virtual env setup I followed (note I have mamba in my base env):
